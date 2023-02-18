@@ -6,6 +6,17 @@ Current list of working chat commands in my channel:
 
 !challenge -> Current challenge rules 
 
-!midi -> Sometimes I play games with my MIDI piano, here's a clip of me doing a shell jump in an SMW Kaizo romhack with my piano: 
+!midi -> Sometimes I play games with my MIDI piano, here's a clip of me doing a shell jump in an SMW Kaizo romhack with my piano: [] What game should I try playing with my piano next? 
 
 !streak -> It sets a counter for how many of my streams you attend! I love being able to acknowledge my viewers for consistent stream attendance without needing them to spend money! 
+
+!SAMMI --> "SAMMI is a fully customizable Streaming Assistant that lets your Twitch and YouTube Live audience control and interact with your stream." I have custom commands that allow viewers to use chat messages, channel points, or monetary incentives to change my OBS settings and affect my stream in real time! 
+
+!youtube -->
+
+!twitter -->
+
+
+
+
+If you have any ideas or suggestions for chat commands let me know! I'm always interesting in finding ways to customize my stream and improve the value I provide my viewers! 
