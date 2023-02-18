@@ -1,4 +1,11 @@
 [updated 2/18/23]
 
 Current list of working chat commands in my channel:
-!commands -> Check out my list of commands here: 
+
+!commands -> Check out my list of commands here: https://github.com/evil0streams/TwitchChatCommands/blob/main/CurrentTwitchCommands.txt
+
+!challenge -> Current challenge rules 
+
+!midi -> Sometimes I play games with my MIDI piano, here's a clip of me doing a shell jump in an SMW Kaizo romhack with my piano: 
+
+!streak -> It sets a counter for how many of my streams you attend! I love being able to acknowledge my viewers for consistent stream attendance without needing them to spend money! 
