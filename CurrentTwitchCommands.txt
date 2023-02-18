@@ -1,0 +1,4 @@
+[updated 2/18/23]
+
+Current list of working chat commands in my channel:
+!commands -> Check out my list of commands here: 
